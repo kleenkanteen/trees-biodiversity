@@ -2,7 +2,7 @@
 
 - Utilized Mississauga public trees dataset to visualize composition of invasive vs. native species
 
-- Made for 2020 Mississauga Smart City Open Data Challenge 
+- Made for 2020 Mississauga Smart City Open Data Challenge, team of 3
 
 - Won Best Story Telling and Narrative Award
 
