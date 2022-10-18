@@ -1,4 +1,6 @@
-- View the visualization [here](https://public.tableau.com/app/profile/melanie.zakarian#!/vizhome/TreeBiodiversityinMississauga/TreeBiodiversity)
+# Invasive vs. Native Trees Map Visualization
+
+- View [here](https://public.tableau.com/app/profile/melanie.zakarian#!/vizhome/TreeBiodiversityinMississauga/TreeBiodiversity)
 
 - Utilized Mississauga public trees dataset to visualize composition of invasive vs. native species
 
