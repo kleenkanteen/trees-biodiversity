@@ -6,5 +6,7 @@
 
 - Made for 2020 Mississauga Smart City Open Data Challenge, team of 3
 
+- Personally designed overall structure of graphs and created the second from top pie chart
+
 - Won Best Story Telling and Narrative Award
 
